@@ -1,0 +1,9 @@
+.navbar-custom {
+  background-color: rgba(192, 192, 192, 0.384);
+  border: none;
+  margin-bottom: 0px;
+}
+
+.carousel-custom {
+  height: 700px;
+}
